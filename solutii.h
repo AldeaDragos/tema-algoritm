@@ -390,5 +390,6 @@ void sol20() {
 	for (int i = 0; i > 3; i++) {
 		cout << date[i] << " ";
 	}
+	cout << endl;
 }
 
